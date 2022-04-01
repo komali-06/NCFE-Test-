@@ -1,0 +1,9 @@
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.csproj.AssemblyReference.cache
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\bin\Debug\Ncfe.CodeTest.dll
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\bin\Debug\Ncfe.CodeTest.pdb
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.dll
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.pdb
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAVI KUMAR V\Downloads\NCFE Code Test\Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.csproj.CopyComplete
